@@ -1,0 +1,12 @@
+name: dexed
+note_duration: [3.0, 1.0]
+n_fft: 1024
+fft_hop: 256
+n_mel_bins: 128
+midi_notes: [[60, 85]]
+algos: null
+operators: [1, 2, 3, 4, 5, 6]
+vst_params_learned_as_categorical: all<=34
+dataset_dir: /data1/Music/synth_sound_match/dexed
+num_param_bins: 25
+sample_rate: 22050

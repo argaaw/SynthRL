@@ -1,0 +1,8 @@
+name: surge
+note_duration: [3.0, 1.0]
+n_fft: 1024
+fft_hop: 256
+n_mel_bins: 128
+midi_notes: [[60, 85]]
+dataset_dir: /data1/Music/synth_sound_match/surge
+sample_rate: 22050

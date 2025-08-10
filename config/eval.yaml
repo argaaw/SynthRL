@@ -1,0 +1,11 @@
+defaults:
+  - dataset: dexed
+  - _self_
+
+logs_root_dir: run
+run_name: stage1/seed1
+synth_name: dexed
+split: test
+ckpt_epoch: 199
+minibatch_size: 1
+device: cuda

@@ -1,0 +1,12 @@
+d_model: 512
+in_channels: 1
+n_queries: 144
+transformer_kwargs:
+  nhead: 8
+  num_encoder_layers: 6
+  num_decoder_layers: 6
+  dim_feedforward: 1024
+  dropout: 0.1
+  activation: gelu
+  normalize_before: True
+      
