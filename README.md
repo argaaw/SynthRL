@@ -81,6 +81,4 @@ We also acknowledge the upstream work (DAFx 2021):
 
 ## Attribution & License
 
-This repository includes portions of code originally from Preset-Gen-VAE (https://github.com/gwendal-lv/preset-gen-vae).
-Because it contains AGPL-3.0–licensed portions, this repository is distributed under **AGPL-3.0**.  
-See `LICENSE` and `NOTICE`.
+The SynthRL source code and the model checkpoints released by the authors are licensed under the MIT License. This repository includes portions of code derived from Preset-Gen-VAE (https://github.com/gwendal-lv/preset-gen-vae), which is also licensed under the MIT License. See `LICENSE` and `NOTICE`.
