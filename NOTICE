@@ -1,2 +1,6 @@
-Includes portions of Preset-Gen-VAE (AGPL-3.0)
+SynthRL includes portions of code derived from Preset-Gen-VAE.
+
+These portions are licensed under the MIT License. The full MIT License text
+and applicable copyright notices are provided in the LICENSE file.
+
 © Gwendal Le Vaillant — https://github.com/gwendal-lv/preset-gen-vae
